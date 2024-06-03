@@ -6,7 +6,7 @@ import logging  # Import logging to log messages
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 # Define the project name
-project_name = "Chest-Cancer-Classification"
+project_name = "Chest_Cancer_Classification"
 
 # List of files and directories to be created
 list_of_files = [

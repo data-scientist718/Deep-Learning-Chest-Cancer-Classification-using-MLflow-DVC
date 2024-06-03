@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Deep-Learning-Chest-Cancer-Classification-using-MLflow-DVC"
 AUTHOR_USER_NAME = "data-scientist718"
-SRC_REPO = "Chest-Cancer-Classification"
+SRC_REPO = "Chest_Cancer_Classification"
 AUTHOR_EMAIL = "abdurrehman.bse@gmail.com"
 
 
