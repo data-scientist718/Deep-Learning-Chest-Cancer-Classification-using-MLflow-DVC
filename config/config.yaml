@@ -1,5 +1,4 @@
 # Configuration file for data ingestion process
-
 # Root directory for storing artifacts
 artifacts_root: artifacts
 
@@ -13,3 +12,11 @@ data_ingestion:
   local_data_file: artifacts/data_ingestion/data.zip
   # Directory for extracting the downloaded data
   unzip_dir: artifacts/
+
+
+# This code block is used to prepare and save an updated version of a pre-trained base model.
+prepare_base_model:
+  root_dir: artifacts/prepare_base_model # Define the root directory for artifacts
+  base_model_path: artifacts/prepare_base_model/base_model.h5 # Specify the path to the base model file
+  updated_base_model_path: artifacts/prepare_base_model/base_model_updated.h5 # Specify the path where the updated base model will be saved
+
