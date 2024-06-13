@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdurrehman/deep%20learning/Deep-Learning-Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/11dbbf20cc824e0381da208c994543bd/artifacts
+end_time: 1718274034536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11dbbf20cc824e0381da208c994543bd
+run_name: debonair-shad-872
+run_uuid: 11dbbf20cc824e0381da208c994543bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718273911368
+status: 3
+tags: []
+user_id: abdurrehman
