@@ -1,5 +1,5 @@
-# Deep-Learning-Chest-Cancer-Classification-using-MLflow-DVC
-
+# Deep-Learning-Chest-Cancer-Classification-using-MLflow-DVC and Dagshub
+# Author : ABD UR REHMAN
 ## Workflows
 
 1. update config.yaml
