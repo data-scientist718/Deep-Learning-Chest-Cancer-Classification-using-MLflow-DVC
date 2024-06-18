@@ -6,6 +6,16 @@
 
 ## project structure
 
+
+Artifacts/
+│
+├── Chest-CT-Scan-data
+├── data_ingestion
+├── prepare_base_model
+└── training
+
+
+
 ├── artifacts/
 │   ├── Chest-CT-Scan-data
 │   ├── data_ingestion
