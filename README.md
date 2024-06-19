@@ -1,12 +1,12 @@
 # Deep-Learning-Chest-Cancer-Classification-using-MLflow-DVC and Dagshub
 
-# Author : ABD UR REHMAN
+## Author : ABD UR REHMAN
 
-# Date :22-05-2024
+## Date :22-05-2024
 
 ## project structure
 
-'''
+```
 ├── artifacts/
 │ ├── Chest-CT-Scan-data
 │ ├── data_ingestion
@@ -46,4 +46,4 @@
 ├── setup.py
 ├── dvc.yaml
 ├── README.md
-'''
+```
