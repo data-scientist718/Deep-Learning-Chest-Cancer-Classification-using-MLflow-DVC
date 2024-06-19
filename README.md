@@ -6,7 +6,7 @@
 
 ## project structure
 
-"""
+'''
 ├── artifacts/
 │ ├── Chest-CT-Scan-data
 │ ├── data_ingestion
@@ -46,4 +46,4 @@
 ├── setup.py
 ├── dvc.yaml
 ├── README.md
-"""
+'''
