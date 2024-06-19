@@ -66,7 +66,7 @@ This project leverages DagsHub for:
 ### Visualizations
 
 Below are some visualizations from our DagsHub repository showing different model characteristics and performance:
-
+![accuracy metrics](https://github.com/data-scientist718/Deep-Learning-Chest-Cancer-Classification-using-MLflow-DVC/assets/49375888/a2cdfbb0-1f17-4d9d-bb92-e414a8e51609)
 
 ## Data Version Control (DVC)
 
