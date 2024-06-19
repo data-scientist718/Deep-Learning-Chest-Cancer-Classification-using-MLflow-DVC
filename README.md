@@ -6,7 +6,7 @@
 
 ## project structure
 
-```
+``` 
 ├── artifacts/
 │ ├── Chest-CT-Scan-data
 │ ├── data_ingestion
